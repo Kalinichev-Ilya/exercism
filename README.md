@@ -1,4 +1,4 @@
-#Just for fun
+## Just for fun
 
 [exercism.io][profile]
 
